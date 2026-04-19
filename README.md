@@ -1,14 +1,33 @@
 # QA Test Cases & Bug Reports – Event Management System
 
-This repository contains QA test cases and bug reports based on real-world testing experience in an Event Management SaaS platform.
+This repository showcases real-world QA testing scenarios based on SaaS product experience.
 
-## Covered Areas
-- Guest Registration
-- Event Creation
-- Admin Authentication
+---
+
+## Scope of Testing
+- Guest Registration & Validation
+- Event Creation & Date Validation
+- UI/UX Issues & Improvements
 - Configuration Management
-- UI/UX Validation
-- Data Validation & Edge Cases
+- Authentication & Access Control
+
+---
+
+## What This Repo Demonstrates
+- Writing clear and structured bug reports  
+- Identifying functional and UI issues  
+- Handling real-world edge cases  
+- Understanding user experience problems  
+- Documenting features and enhancements  
+
+---
+
+## Repository Structure
+- bug-reports/ → Functional & UI bugs  
+- features/ → Feature requirements & user stories  
+- enhancements/ → Improvement suggestions  
+
+---
 
 ## Note
-All test cases and bug reports are rewritten in a generic format. No confidential or company-specific information is included.
+All scenarios are rewritten in a generic format and do not include any confidential or company-specific information.
